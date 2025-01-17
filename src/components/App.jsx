@@ -1,7 +1,7 @@
 import Product from './Product';
 import Button from './Button';
 
-export default function App() {
+function App() {
   return (
     <div>
       <Product name="Cookies" price={999} />
@@ -9,3 +9,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;
