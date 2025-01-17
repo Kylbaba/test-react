@@ -6,8 +6,7 @@ function Product({ name, price }) {
     </div>
   );
 }
-
-export default function App() {
+function App() {
   return (
     <div>
       <h1>Our Products</h1>
@@ -17,3 +16,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;
