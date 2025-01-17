@@ -1,5 +1,5 @@
-import Product from './components/Product';
-import Button from './components/Button';
+import Product from './Product';
+import Button from './Button';
 
 export default function App() {
   return (
